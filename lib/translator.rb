@@ -2,8 +2,8 @@ require 'pry'
 require 'yaml'# require modules here
 
 def load_library(emoticons)
-  emoticons = ./lib/emoticons.ym
- binding.pry
+  emoticons = /lib/emoticons.ym
+ #binding.pry
 end
 
 def get_japanese_emoticon()
