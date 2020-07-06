@@ -1,7 +1,7 @@
 require 'pry'
 require 'yaml'# require modules here
 
-def load_library(/lib/emoticons.yml)
+def load_library(emoticons)
  binding.pry
 end
 
