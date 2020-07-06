@@ -2,7 +2,7 @@ require 'pry'
 require 'yaml'# require modules here
 
 def load_library(emoticons)
-  objects = YAML::load(emoticons)
+  emoticons = {}
  #binding.pry
 end
 
